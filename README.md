@@ -47,7 +47,7 @@
 
 | | |
 |---|---|
-| ![Модель](renders/print-hero.png) | ![Выдвижение лотка](renders/print-pullout.png) |
+| ![Сборка](renders/print-hero.png) | ![Выдвижение лотка](renders/print-pullout.png) |
 
 Конструкция: две боковины-лесенки с интегрированными полозьями под 12°,
 лотки задвигаются как ящики, две штанги стягивают каркас.
@@ -79,10 +79,11 @@
 
 | Файл | Деталь | Кол-во | Ориентация печати |
 |---|---|---|---|
-| [print/bp-side-panel.stl](print/bp-side-panel.stl) | боковина с полозьями, 240×150×8 | 2 (одна зеркально) | плашмя, полозьями вверх |
+| [print/bp-side-panel.stl](print/bp-side-panel.stl) | боковина с полозьями и детентами, 240×150×14 | 2 (одна зеркально) | плашмя, полозьями вверх |
 | [print/bp-bin.stl](print/bp-bin.stl) | лоток 201×117×45 | 3 | дном вниз |
-| [print/bp-stretcher.stl](print/bp-stretcher.stl) | штанга с шипами, 224 мм | 2 | лёжа |
-| [print/bp-divider.stl](print/bp-divider.stl) | перегородка | 6 | плашмя |
+| [print/bp-stretcher.stl](print/bp-stretcher.stl) | штанга с шипами, 222 мм | 2 | лёжа |
+| [print/bp-divider.stl](print/bp-divider.stl) | перегородка 110×40×2 | 6 | плашмя |
+| [print/bp-logo-strip.stl](print/bp-logo-strip.stl) | планка с логотипом на бортик верхнего лотка | 1 | лицом вверх |
 
 Режим: PETG, сопло 0,4, слой 0,2, заполнение 15 %, стенки 3 периметра.
 Посадки: паз полоза 3,2 мм под дно 2,4 (зазор 0,4 на сторону), шипы штанг
@@ -111,8 +112,18 @@
 
 ## CAD
 
-- [cad/binstack-full.step](cad/binstack-full.step) — фанерная версия, полная сборка
-- [cad/binstack-print-full.step](cad/binstack-print-full.step) — печатная версия + отдельные детали
+Печатная версия собрана как настоящая сборка: каждая деталь это отдельный
+парт с одним телом, сборка состоит из экземпляров этих партов.
+
+| Файл | Что внутри |
+|---|---|
+| [cad/binstack-print-assembly.f3d](cad/binstack-print-assembly.f3d) | сборка BINSTACK P для Fusion 360: 6 партов, 14 экземпляров |
+| [cad/binstack-print-assembly.step](cad/binstack-print-assembly.step) | та же сборка в нейтральном формате |
+| [cad/parts/](cad/parts) | каждый парт отдельным файлом: боковины, лоток, перегородка, штанга, планка |
+| [cad/binstack-full.step](cad/binstack-full.step) | фанерная версия |
+
+Состав сборки: боковина левая ×1, боковина правая ×1, лоток ×3,
+перегородка ×6, штанга ×2, планка логотипа ×1.
 
 ## Серия GIVANTA MASTERS
 
