@@ -56,12 +56,12 @@
 <line x1="473.6" y1="738.4" x2="473.6" y2="720.2" stroke="#c8500a" stroke-width="0.9"/>
 <path d="M 473.6 738.4 l 9 -3 l 0 6 z" fill="#c8500a" transform="rotate(90.0 473.6 738.4)"/>
 <path d="M 473.6 720.2 l 9 -3 l 0 6 z" fill="#c8500a" transform="rotate(270.0 473.6 720.2)"/>
-<text x="494.4" y="729.3" font-family="Segoe UI, Arial" font-size="14" fill="#c8500a" text-anchor="start">h 0,7</text>
+<text x="494.4" y="729.3" font-family="Segoe UI, Arial" font-size="14" fill="#c8500a" text-anchor="start">h 1,0</text>
 <text x="367.0" y="806.0" font-family="Segoe UI, Arial" font-size="13" fill="#c8500a" text-anchor="middle">печатается заодно с полозом, без поддержек</text>
 <text x="780.0" y="612.0" font-family="Segoe UI, Arial" font-size="14" fill="#1a1a1a" text-anchor="start">— Дно лотка шире корпуса на 6 мм с каждой стороны</text>
 <text x="780.0" y="638.0" font-family="Segoe UI, Arial" font-size="14" fill="#1a1a1a" text-anchor="start">— Этот фланец и есть салазка: он лежит в пазу полозьев</text>
 <text x="780.0" y="664.0" font-family="Segoe UI, Arial" font-size="14" fill="#1a1a1a" text-anchor="start">— Паз 3,2 мм · дно 2,4 мм · зазор 0,4 на сторону</text>
 <text x="780.0" y="690.0" font-family="Segoe UI, Arial" font-size="14" fill="#1a1a1a" text-anchor="start">— Наклон яруса 12° прижимает лоток внутрь</text>
-<text x="780.0" y="716.0" font-family="Segoe UI, Arial" font-size="14" fill="#1a1a1a" text-anchor="start">— Бугорок 0,7 мм на переднем конце нижнего полоза</text>
+<text x="780.0" y="716.0" font-family="Segoe UI, Arial" font-size="14" fill="#1a1a1a" text-anchor="start">— Бугорок 1,0 мм: люфт паза 0,8 + натяг 0,2</text>
 <text x="780.0" y="742.0" font-family="Segoe UI, Arial" font-size="14" fill="#1a1a1a" text-anchor="start">— Ход назад ограничен штангой каркаса</text>
 <text x="780.0" y="768.0" font-family="Segoe UI, Arial" font-size="14" fill="#1a1a1a" text-anchor="start">— Чтобы снять лоток: приподнять перед и протянуть</text><rect x="762" y="818" width="470" height="54" fill="white" stroke="#1a1a1a" stroke-width="1.5"/><text x="774" y="840" font-size="17" font-weight="bold" fill="#c8500a" font-family="Segoe UI, Arial">GIVANTA MASTERS</text><text x="774" y="860" font-size="13" fill="#1a1a1a" font-family="Segoe UI, Arial">BINSTACK P — детент полозьев · размеры в мм</text></svg>
