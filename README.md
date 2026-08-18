@@ -96,7 +96,7 @@
 | [print/bp-bin.stl](print/bp-bin.stl) | лоток 213×117×45 (дно с фланцами-салазками) | 3 | дном вниз |
 | [print/bp-stretcher.stl](print/bp-stretcher.stl) | штанга с шипами, 222 мм | 2 | лёжа |
 | [print/bp-divider.stl](print/bp-divider.stl) | перегородка 109×40×2,4 | 6 (или больше) | плашмя |
-| [print/bp-logo-strip.stl](print/bp-logo-strip.stl) | планка с логотипом, 125×17×3 | 1 | лицом вверх |
+| [print/bp-logo-strip.stl](print/bp-logo-strip.stl) | планка с логотипом, 138×17×3 | 1 | лицом вверх |
 
 **Планка логотипа — двухцветная.** Буквы выступают ровно на 0,8 мм над
 планкой и лежат выше всей её толщины, поэтому цвет меняется одной паузой:
