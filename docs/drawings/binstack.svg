@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1320 760" font-family="Arial">
+<rect width="1320" height="760" fill="white"/>
+<rect x="8" y="8" width="1304" height="744" fill="none" stroke="#1a1a1a" stroke-width="2"/>
+<text x="70.0" y="50.0" font-family="Segoe UI, Arial, sans-serif" font-size="19" fill="#1a1a1a" text-anchor="start" font-weight="bold">BINSTACK — профиль и фронт</text>
+<path d="M 172.5 640.0 L 460.0 640.0 L 460.0 152.5 L 310.0 152.5 Z" fill="#f7ecd8" stroke="#1a1a1a" stroke-width="1.2"/>
+<path d="M 442.5 625.0 L 450.0 625.0 L 450.0 162.5 L 442.5 162.5 Z" fill="#3e4144" stroke="#1a1a1a" stroke-width="1.2"/>
+<path d="M 177.5 640.0 L 442.5 640.0 L 442.5 625.0 L 177.5 625.0 Z" fill="#f0e2c8" stroke="#1a1a1a" stroke-width="1.2"/>
+<path d="M 307.5 167.5 L 460.0 167.5 L 460.0 152.5 L 307.5 152.5 Z" fill="#f0e2c8" stroke="#1a1a1a" stroke-width="1.2"/>
+<path d="M 192.5 577.5 L 442.5 525.0 L 442.5 540.0 L 192.5 592.5 Z" fill="#f0e2c8" stroke="#1a1a1a" stroke-width="1.2"/>
+<path d="M 192.5 577.5 L 207.5 577.5 L 207.5 517.5 L 192.5 517.5 Z" fill="#f0e2c8" stroke="#1a1a1a" stroke-width="1.2"/>
+<path d="M 190.0 532.5 L 192.5 532.5 L 192.5 520.0 L 190.0 520.0 Z" fill="#e87232" stroke="#1a1a1a" stroke-width="1.2"/>
+<path d="M 231.2 440.0 L 442.5 395.0 L 442.5 410.0 L 231.2 455.0 Z" fill="#f0e2c8" stroke="#1a1a1a" stroke-width="1.2"/>
+<path d="M 231.2 440.0 L 246.2 440.0 L 246.2 380.0 L 231.2 380.0 Z" fill="#f0e2c8" stroke="#1a1a1a" stroke-width="1.2"/>
+<path d="M 228.8 395.0 L 231.2 395.0 L 231.2 382.5 L 228.8 382.5 Z" fill="#e87232" stroke="#1a1a1a" stroke-width="1.2"/>
+<path d="M 270.0 302.5 L 442.5 266.2 L 442.5 281.2 L 270.0 317.5 Z" fill="#f0e2c8" stroke="#1a1a1a" stroke-width="1.2"/>
+<path d="M 270.0 302.5 L 285.0 302.5 L 285.0 242.5 L 270.0 242.5 Z" fill="#f0e2c8" stroke="#1a1a1a" stroke-width="1.2"/>
+<path d="M 267.5 257.5 L 270.0 257.5 L 270.0 245.0 L 267.5 245.0 Z" fill="#e87232" stroke="#1a1a1a" stroke-width="1.2"/>
+<line x1="172.5" y1="112.5" x2="460.0" y2="112.5" stroke="#c8500a" stroke-width="0.9"/>
+<path d="M 172.5 112.5 l 9 -3 l 0 6 z" fill="#c8500a" transform="rotate(0.0 172.5 112.5)"/>
+<path d="M 460.0 112.5 l 9 -3 l 0 6 z" fill="#c8500a" transform="rotate(180.0 460.0 112.5)"/>
+<text x="316.2" y="107.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#c8500a" text-anchor="middle">240</text>
+<line x1="172.5" y1="638.0" x2="172.5" y2="106.5" stroke="#c8500a" stroke-width="0.6" stroke-dasharray="4 3"/>
+<line x1="460.0" y1="148.5" x2="460.0" y2="106.5" stroke="#c8500a" stroke-width="0.6" stroke-dasharray="4 3"/>
+<line x1="310.0" y1="136.5" x2="460.0" y2="136.5" stroke="#c8500a" stroke-width="0.9"/>
+<path d="M 310.0 136.5 l 9 -3 l 0 6 z" fill="#c8500a" transform="rotate(0.0 310.0 136.5)"/>
+<path d="M 460.0 136.5 l 9 -3 l 0 6 z" fill="#c8500a" transform="rotate(180.0 460.0 136.5)"/>
+<text x="385.0" y="131.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#c8500a" text-anchor="middle">120</text>
+<line x1="310.0" y1="148.5" x2="310.0" y2="130.5" stroke="#c8500a" stroke-width="0.6" stroke-dasharray="4 3"/>
+<line x1="112.5" y1="152.5" x2="112.5" y2="640.0" stroke="#c8500a" stroke-width="0.9"/>
+<path d="M 112.5 152.5 l 9 -3 l 0 6 z" fill="#c8500a" transform="rotate(90.0 112.5 152.5)"/>
+<path d="M 112.5 640.0 l 9 -3 l 0 6 z" fill="#c8500a" transform="rotate(270.0 112.5 640.0)"/>
+<text x="105.5" y="396.2" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#c8500a" text-anchor="middle" transform="rotate(-90.0 105.5 396.2)">390</text>
+<line x1="168.5" y1="640.0" x2="106.5" y2="640.0" stroke="#c8500a" stroke-width="0.6" stroke-dasharray="4 3"/>
+<line x1="303.5" y1="152.5" x2="106.5" y2="152.5" stroke="#c8500a" stroke-width="0.6" stroke-dasharray="4 3"/>
+<line x1="490.0" y1="577.5" x2="490.0" y2="640.0" stroke="#c8500a" stroke-width="0.9"/>
+<path d="M 490.0 577.5 l 9 -3 l 0 6 z" fill="#c8500a" transform="rotate(90.0 490.0 577.5)"/>
+<path d="M 490.0 640.0 l 9 -3 l 0 6 z" fill="#c8500a" transform="rotate(270.0 490.0 640.0)"/>
+<text x="483.0" y="608.8" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#c8500a" text-anchor="middle" transform="rotate(-90.0 483.0 608.8)">50</text>
+<line x1="464.0" y1="577.5" x2="496.0" y2="577.5" stroke="#c8500a" stroke-width="0.6" stroke-dasharray="4 3"/>
+<line x1="490.0" y1="440.0" x2="490.0" y2="640.0" stroke="#c8500a" stroke-width="0.9"/>
+<path d="M 490.0 440.0 l 9 -3 l 0 6 z" fill="#c8500a" transform="rotate(90.0 490.0 440.0)"/>
+<path d="M 490.0 640.0 l 9 -3 l 0 6 z" fill="#c8500a" transform="rotate(270.0 490.0 640.0)"/>
+<text x="483.0" y="540.0" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#c8500a" text-anchor="middle" transform="rotate(-90.0 483.0 540.0)">160</text>
+<line x1="464.0" y1="440.0" x2="496.0" y2="440.0" stroke="#c8500a" stroke-width="0.6" stroke-dasharray="4 3"/>
+<line x1="490.0" y1="302.5" x2="490.0" y2="640.0" stroke="#c8500a" stroke-width="0.9"/>
+<path d="M 490.0 302.5 l 9 -3 l 0 6 z" fill="#c8500a" transform="rotate(90.0 490.0 302.5)"/>
+<path d="M 490.0 640.0 l 9 -3 l 0 6 z" fill="#c8500a" transform="rotate(270.0 490.0 640.0)"/>
+<text x="483.0" y="471.2" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#c8500a" text-anchor="middle" transform="rotate(-90.0 483.0 471.2)">270</text>
+<line x1="464.0" y1="302.5" x2="496.0" y2="302.5" stroke="#c8500a" stroke-width="0.6" stroke-dasharray="4 3"/>
+<text x="347.5" y="316.2" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#c8500a" text-anchor="middle">наклон 12°</text>
+<text x="235.0" y="670.0" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#c8500a" text-anchor="start">бортик 48, планка PETG</text>
+<text x="640.0" y="80.0" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#1a1a1a" text-anchor="start" font-weight="bold">Фронт</text>
+<rect x="640.0" y="152.5" width="525.0" height="487.5" fill="#f7ecd8" stroke="#1a1a1a" stroke-width="1.2"/>
+<rect x="655.0" y="167.5" width="495.0" height="457.5" fill="white" stroke="#1a1a1a" stroke-width="1.2"/>
+<rect x="655.0" y="592.5" width="495.0" height="15.0" fill="#f0e2c8" stroke="#1a1a1a" stroke-width="1.2"/>
+<rect x="655.0" y="517.5" width="495.0" height="60.0" fill="#f0e2c8" stroke="#1a1a1a" stroke-width="1.2"/>
+<rect x="690.0" y="520.0" width="425.0" height="12.5" fill="#e87232" stroke="#1a1a1a" stroke-width="1.2"/>
+<rect x="816.2" y="411.2" width="7.5" height="50.0" fill="#dddad2" stroke="#1a1a1a" stroke-width="1.2"/>
+<rect x="981.2" y="411.2" width="7.5" height="50.0" fill="#dddad2" stroke="#1a1a1a" stroke-width="1.2"/>
+<rect x="655.0" y="455.0" width="495.0" height="15.0" fill="#f0e2c8" stroke="#1a1a1a" stroke-width="1.2"/>
+<rect x="655.0" y="380.0" width="495.0" height="60.0" fill="#f0e2c8" stroke="#1a1a1a" stroke-width="1.2"/>
+<rect x="690.0" y="382.5" width="425.0" height="12.5" fill="#e87232" stroke="#1a1a1a" stroke-width="1.2"/>
+<rect x="816.2" y="273.8" width="7.5" height="50.0" fill="#dddad2" stroke="#1a1a1a" stroke-width="1.2"/>
+<rect x="981.2" y="273.8" width="7.5" height="50.0" fill="#dddad2" stroke="#1a1a1a" stroke-width="1.2"/>
+<rect x="655.0" y="317.5" width="495.0" height="15.0" fill="#f0e2c8" stroke="#1a1a1a" stroke-width="1.2"/>
+<rect x="655.0" y="242.5" width="495.0" height="60.0" fill="#f0e2c8" stroke="#1a1a1a" stroke-width="1.2"/>
+<rect x="690.0" y="245.0" width="425.0" height="12.5" fill="#e87232" stroke="#1a1a1a" stroke-width="1.2"/>
+<rect x="816.2" y="171.2" width="7.5" height="50.0" fill="#dddad2" stroke="#1a1a1a" stroke-width="1.2"/>
+<rect x="981.2" y="171.2" width="7.5" height="50.0" fill="#dddad2" stroke="#1a1a1a" stroke-width="1.2"/>
+<rect x="655.0" y="152.5" width="495.0" height="15.0" fill="#f0e2c8" stroke="#1a1a1a" stroke-width="1.2"/>
+<text x="902.5" y="273.0" font-family="Segoe UI, Arial, sans-serif" font-size="9" fill="#c8500a" text-anchor="middle">GIVANTA MASTERS</text>
+<line x1="640.0" y1="136.5" x2="1165.0" y2="136.5" stroke="#c8500a" stroke-width="0.9"/>
+<path d="M 640.0 136.5 l 9 -3 l 0 6 z" fill="#c8500a" transform="rotate(0.0 640.0 136.5)"/>
+<path d="M 1165.0 136.5 l 9 -3 l 0 6 z" fill="#c8500a" transform="rotate(180.0 1165.0 136.5)"/>
+<text x="902.5" y="131.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#c8500a" text-anchor="middle">420</text>
+<line x1="640.0" y1="148.5" x2="640.0" y2="130.5" stroke="#c8500a" stroke-width="0.6" stroke-dasharray="4 3"/>
+<line x1="1165.0" y1="148.5" x2="1165.0" y2="130.5" stroke="#c8500a" stroke-width="0.6" stroke-dasharray="4 3"/>
+<line x1="655.0" y1="674.0" x2="1150.0" y2="674.0" stroke="#c8500a" stroke-width="0.9"/>
+<path d="M 655.0 674.0 l 9 -3 l 0 6 z" fill="#c8500a" transform="rotate(0.0 655.0 674.0)"/>
+<path d="M 1150.0 674.0 l 9 -3 l 0 6 z" fill="#c8500a" transform="rotate(180.0 1150.0 674.0)"/>
+<text x="902.5" y="669.0" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#c8500a" text-anchor="middle">396 (внутр.)</text>
+<line x1="655.0" y1="644.0" x2="655.0" y2="680.0" stroke="#c8500a" stroke-width="0.6" stroke-dasharray="4 3"/>
+<line x1="1150.0" y1="644.0" x2="1150.0" y2="680.0" stroke="#c8500a" stroke-width="0.6" stroke-dasharray="4 3"/>
+<line x1="655.0" y1="486.0" x2="816.2" y2="486.0" stroke="#c8500a" stroke-width="0.9"/>
+<path d="M 655.0 486.0 l 9 -3 l 0 6 z" fill="#c8500a" transform="rotate(0.0 655.0 486.0)"/>
+<path d="M 816.2 486.0 l 9 -3 l 0 6 z" fill="#c8500a" transform="rotate(180.0 816.2 486.0)"/>
+<text x="735.6" y="481.0" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#c8500a" text-anchor="middle">129</text>
+<line x1="1195.0" y1="242.5" x2="1195.0" y2="302.5" stroke="#c8500a" stroke-width="0.9"/>
+<path d="M 1195.0 242.5 l 9 -3 l 0 6 z" fill="#c8500a" transform="rotate(90.0 1195.0 242.5)"/>
+<path d="M 1195.0 302.5 l 9 -3 l 0 6 z" fill="#c8500a" transform="rotate(270.0 1195.0 302.5)"/>
+<text x="1188.0" y="272.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#c8500a" text-anchor="middle" transform="rotate(-90.0 1188.0 272.5)">48</text>
+<line x1="1169.0" y1="242.5" x2="1201.0" y2="242.5" stroke="#c8500a" stroke-width="0.6" stroke-dasharray="4 3"/>
+<line x1="1169.0" y1="302.5" x2="1201.0" y2="302.5" stroke="#c8500a" stroke-width="0.6" stroke-dasharray="4 3"/>
+<rect x="820" y="698" width="492" height="54" fill="white" stroke="#1a1a1a" stroke-width="1.5"/>
+<text x="832" y="720" font-size="17" font-weight="bold" fill="#c8500a" font-family="Segoe UI, Arial">GIVANTA MASTERS</text>
+<text x="832" y="740" font-size="13" fill="#1a1a1a" font-family="Segoe UI, Arial">BINSTACK — настольный органайзер, профиль и фронт, М 1:5 · размеры в мм</text>
+</svg>
