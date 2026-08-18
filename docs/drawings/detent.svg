@@ -1,45 +1,67 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1240 660" font-family="Arial"><rect width="1240" height="660" fill="white"/><rect x="8" y="8" width="1224" height="644" fill="none" stroke="#1a1a1a" stroke-width="2"/><text x="60.0" y="46.0" font-family="Segoe UI, Arial" font-size="20" fill="#1a1a1a" text-anchor="start" font-weight="bold">Детент-упор: как лоток фиксируется и выдвигается</text>
-<path d="M 70.0 240.0 L 335.2 240.0 L 335.2 219.6 L 70.0 219.6 Z" fill="#f6d2b4" stroke="#1a1a1a" stroke-width="1.4"/>
-<path d="M 260.4 219.6 L 280.8 219.6 L 275.7 210.1 L 265.5 210.1 Z" fill="#e87232" stroke="#1a1a1a" stroke-width="1.2"/>
-<path d="M 70.0 180.4 L 335.2 180.4 L 335.2 163.4 L 70.0 163.4 Z" fill="#f6d2b4" stroke="#1a1a1a" stroke-width="1.4"/>
-<path d="M 83.6 217.9 L 240.0 217.9 L 240.0 188.5 L 83.6 188.5 Z" fill="#3e4144" fill-opacity="0.75" stroke="#1a1a1a" stroke-width="1.4"/>
-<text x="202.6" y="274.0" font-family="Segoe UI, Arial" font-size="16" fill="#1a1a1a" text-anchor="middle" font-weight="bold">Закрыт</text>
-<text x="202.6" y="296.0" font-family="Segoe UI, Arial" font-size="13" fill="#c8500a" text-anchor="middle">дно за бугорком, лоток заперт</text>
-<path d="M 450.0 240.0 L 715.2 240.0 L 715.2 219.6 L 450.0 219.6 Z" fill="#f6d2b4" stroke="#1a1a1a" stroke-width="1.4"/>
-<path d="M 640.4 219.6 L 660.8 219.6 L 655.7 210.1 L 645.5 210.1 Z" fill="#e87232" stroke="#1a1a1a" stroke-width="1.2"/>
-<path d="M 450.0 180.4 L 715.2 180.4 L 715.2 163.4 L 450.0 163.4 Z" fill="#f6d2b4" stroke="#1a1a1a" stroke-width="1.4"/>
-<path d="M 524.8 217.9 L 681.2 217.9 L 681.2 188.5 L 524.8 188.5 Z" fill="#3e4144" fill-opacity="0.75" stroke="#1a1a1a" stroke-width="1.4"/>
-<text x="582.6" y="274.0" font-family="Segoe UI, Arial" font-size="16" fill="#1a1a1a" text-anchor="middle" font-weight="bold">Щелчок</text>
-<text x="582.6" y="296.0" font-family="Segoe UI, Arial" font-size="13" fill="#c8500a" text-anchor="middle">усилие на перещёлк ~1 кг</text>
-<path d="M 830.0 240.0 L 1095.2 240.0 L 1095.2 219.6 L 830.0 219.6 Z" fill="#f6d2b4" stroke="#1a1a1a" stroke-width="1.4"/>
-<path d="M 1020.4 219.6 L 1040.8 219.6 L 1035.7 210.1 L 1025.5 210.1 Z" fill="#e87232" stroke="#1a1a1a" stroke-width="1.2"/>
-<path d="M 830.0 180.4 L 1095.2 180.4 L 1095.2 163.4 L 830.0 163.4 Z" fill="#f6d2b4" stroke="#1a1a1a" stroke-width="1.4"/>
-<path d="M 945.6 217.9 L 1102.0 217.9 L 1102.0 188.5 L 945.6 188.5 Z" fill="#3e4144" fill-opacity="0.75" stroke="#1a1a1a" stroke-width="1.4"/>
-<text x="962.6" y="274.0" font-family="Segoe UI, Arial" font-size="16" fill="#1a1a1a" text-anchor="middle" font-weight="bold">Выдвинут</text>
-<text x="962.6" y="296.0" font-family="Segoe UI, Arial" font-size="13" fill="#c8500a" text-anchor="middle">бугорок ловит, не даёт выпасть</text>
-<line x1="410.0" y1="200.0" x2="438.0" y2="200.0" stroke="#c8500a" stroke-width="1.6"/>
-<path d="M 438.0 200.0 l 9 -3 l 0 6 z" fill="#c8500a" transform="rotate(180.0 438.0 200.0)"/>
-<line x1="790.0" y1="200.0" x2="818.0" y2="200.0" stroke="#c8500a" stroke-width="1.6"/>
-<path d="M 818.0 200.0 l 9 -3 l 0 6 z" fill="#c8500a" transform="rotate(180.0 818.0 200.0)"/>
-<text x="70.0" y="566.0" font-family="Segoe UI, Arial" font-size="16" fill="#1a1a1a" text-anchor="start" font-weight="bold">Профиль</text>
-<text x="70.0" y="588.0" font-family="Segoe UI, Arial" font-size="16" fill="#1a1a1a" text-anchor="start" font-weight="bold">бугорка</text>
-<path d="M 250.0 560.0 L 484.0 560.0 L 484.0 518.4 L 250.0 518.4 Z" fill="#f6d2b4" stroke="#1a1a1a" stroke-width="1.4"/>
-<path d="M 289.0 518.4 L 445.0 518.4 L 406.0 500.2 L 328.0 500.2 Z" fill="#e87232" stroke="#1a1a1a" stroke-width="1.4"/>
-<line x1="289.0" y1="474.2" x2="328.0" y2="474.2" stroke="#c8500a" stroke-width="0.9"/>
-<path d="M 289.0 474.2 l 9 -3 l 0 6 z" fill="#c8500a" transform="rotate(0.0 289.0 474.2)"/>
-<path d="M 328.0 474.2 l 9 -3 l 0 6 z" fill="#c8500a" transform="rotate(180.0 328.0 474.2)"/>
-<text x="308.5" y="468.2" font-family="Segoe UI, Arial" font-size="15" fill="#c8500a" text-anchor="middle">въезд 1,5</text>
-<line x1="406.0" y1="474.2" x2="445.0" y2="474.2" stroke="#c8500a" stroke-width="0.9"/>
-<path d="M 406.0 474.2 l 9 -3 l 0 6 z" fill="#c8500a" transform="rotate(0.0 406.0 474.2)"/>
-<path d="M 445.0 474.2 l 9 -3 l 0 6 z" fill="#c8500a" transform="rotate(180.0 445.0 474.2)"/>
-<text x="425.5" y="468.2" font-family="Segoe UI, Arial" font-size="15" fill="#c8500a" text-anchor="middle">сход 1,5</text>
-<line x1="473.6" y1="518.4" x2="473.6" y2="500.2" stroke="#c8500a" stroke-width="0.9"/>
-<path d="M 473.6 518.4 l 9 -3 l 0 6 z" fill="#c8500a" transform="rotate(90.0 473.6 518.4)"/>
-<path d="M 473.6 500.2 l 9 -3 l 0 6 z" fill="#c8500a" transform="rotate(270.0 473.6 500.2)"/>
-<text x="494.4" y="509.3" font-family="Segoe UI, Arial" font-size="14" fill="#c8500a" text-anchor="start">h 0,7</text>
-<text x="367.0" y="586.0" font-family="Segoe UI, Arial" font-size="13" fill="#c8500a" text-anchor="middle">печатается заодно с полозом, без поддержек</text>
-<text x="780.0" y="470.0" font-family="Segoe UI, Arial" font-size="14" fill="#1a1a1a" text-anchor="start">— Паз 3,2 мм · дно лотка 2,4 мм · зазор 0,4 на сторону</text>
-<text x="780.0" y="496.0" font-family="Segoe UI, Arial" font-size="14" fill="#1a1a1a" text-anchor="start">— Наклон яруса 12° прижимает лоток внутрь</text>
-<text x="780.0" y="522.0" font-family="Segoe UI, Arial" font-size="14" fill="#1a1a1a" text-anchor="start">— Бугорок 0,7 мм на переднем конце нижнего полоза</text>
-<text x="780.0" y="548.0" font-family="Segoe UI, Arial" font-size="14" fill="#1a1a1a" text-anchor="start">— Ход назад ограничен штангой каркаса</text>
-<text x="780.0" y="574.0" font-family="Segoe UI, Arial" font-size="14" fill="#1a1a1a" text-anchor="start">— Чтобы снять лоток: приподнять перед и протянуть</text><rect x="762" y="598" width="470" height="54" fill="white" stroke="#1a1a1a" stroke-width="1.5"/><text x="774" y="620" font-size="17" font-weight="bold" fill="#c8500a" font-family="Segoe UI, Arial">GIVANTA MASTERS</text><text x="774" y="640" font-size="13" fill="#1a1a1a" font-family="Segoe UI, Arial">BINSTACK P — детент полозьев · размеры в мм</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1240 880" font-family="Arial"><rect width="1240" height="880" fill="white"/><rect x="8" y="8" width="1224" height="864" fill="none" stroke="#1a1a1a" stroke-width="2"/><text x="60.0" y="46.0" font-family="Segoe UI, Arial" font-size="20" fill="#1a1a1a" text-anchor="start" font-weight="bold">Полозья и детент: на чём лоток ездит и чем держится</text>
+<text x="60.0" y="85.0" font-family="Segoe UI, Arial" font-size="15" fill="#1a1a1a" text-anchor="start" font-weight="bold">Сечение поперёк: узел «фланец в пазу»</text>
+<path d="M 90.0 288.0 L 146.0 288.0 L 146.0 190.0 L 90.0 190.0 Z" fill="#f6d2b4" stroke="#1a1a1a" stroke-width="1.4"/>
+<path d="M 146.0 246.0 L 188.0 246.0 L 188.0 288.0 L 146.0 288.0 Z" fill="#e87232" stroke="#1a1a1a" stroke-width="1.4"/>
+<path d="M 146.0 188.6 L 188.0 188.6 L 188.0 223.6 L 146.0 223.6 Z" fill="#e87232" stroke="#1a1a1a" stroke-width="1.4"/>
+<path d="M 149.5 226.4 L 237.0 226.4 L 237.0 243.2 L 149.5 243.2 Z" fill="#3e4144" stroke="#1a1a1a" stroke-width="1.4"/>
+<path d="M 191.5 141.0 L 205.5 141.0 L 205.5 226.4 L 191.5 226.4 Z" fill="#3e4144" stroke="#1a1a1a" stroke-width="1.4"/>
+<text x="118.0" y="298.5" font-family="Segoe UI, Arial" font-size="13" fill="#1a1a1a" text-anchor="middle">боковина</text>
+<text x="167.0" y="172.5" font-family="Segoe UI, Arial" font-size="13" fill="#c8500a" text-anchor="middle">полозья</text>
+<text x="300.0" y="239.8" font-family="Segoe UI, Arial" font-size="14" fill="#1a1a1a" text-anchor="start">фланец дна лотка входит в паз</text>
+<text x="300.0" y="260.8" font-family="Segoe UI, Arial" font-size="13" fill="#c8500a" text-anchor="start">перекрытие 5,5 мм — на нём лоток и висит</text>
+<text x="300.0" y="155.0" font-family="Segoe UI, Arial" font-size="13" fill="#1a1a1a" text-anchor="start">стенка лотка</text>
+<line x1="207.6" y1="151.0" x2="293.0" y2="151.0" stroke="#c8500a" stroke-width="0.8" stroke-dasharray="4 3"/>
+<line x1="146.0" y1="309.0" x2="188.0" y2="309.0" stroke="#c8500a" stroke-width="0.9"/>
+<path d="M 146.0 309.0 l 9 -3 l 0 6 z" fill="#c8500a" transform="rotate(0.0 146.0 309.0)"/>
+<path d="M 188.0 309.0 l 9 -3 l 0 6 z" fill="#c8500a" transform="rotate(180.0 188.0 309.0)"/>
+<text x="167.0" y="303.0" font-family="Segoe UI, Arial" font-size="15" fill="#c8500a" text-anchor="middle">полоз 6</text>
+<line x1="192.2" y1="246.0" x2="192.2" y2="223.6" stroke="#c8500a" stroke-width="0.9"/>
+<path d="M 192.2 246.0 l 9 -3 l 0 6 z" fill="#c8500a" transform="rotate(90.0 192.2 246.0)"/>
+<path d="M 192.2 223.6 l 9 -3 l 0 6 z" fill="#c8500a" transform="rotate(270.0 192.2 223.6)"/>
+<text x="300.0" y="216.8" font-family="Segoe UI, Arial" font-size="13" fill="#c8500a" text-anchor="start">паз 3,2 · дно 2,4</text>
+<path d="M 70.0 470.0 L 335.2 470.0 L 335.2 449.6 L 70.0 449.6 Z" fill="#f6d2b4" stroke="#1a1a1a" stroke-width="1.4"/>
+<path d="M 260.4 449.6 L 280.8 449.6 L 275.7 440.1 L 265.5 440.1 Z" fill="#e87232" stroke="#1a1a1a" stroke-width="1.2"/>
+<path d="M 70.0 410.4 L 335.2 410.4 L 335.2 393.4 L 70.0 393.4 Z" fill="#f6d2b4" stroke="#1a1a1a" stroke-width="1.4"/>
+<path d="M 83.6 447.9 L 240.0 447.9 L 240.0 418.5 L 83.6 418.5 Z" fill="#3e4144" fill-opacity="0.75" stroke="#1a1a1a" stroke-width="1.4"/>
+<text x="202.6" y="504.0" font-family="Segoe UI, Arial" font-size="16" fill="#1a1a1a" text-anchor="middle" font-weight="bold">Закрыт</text>
+<text x="202.6" y="526.0" font-family="Segoe UI, Arial" font-size="13" fill="#c8500a" text-anchor="middle">дно за бугорком, лоток заперт</text>
+<path d="M 450.0 470.0 L 715.2 470.0 L 715.2 449.6 L 450.0 449.6 Z" fill="#f6d2b4" stroke="#1a1a1a" stroke-width="1.4"/>
+<path d="M 640.4 449.6 L 660.8 449.6 L 655.7 440.1 L 645.5 440.1 Z" fill="#e87232" stroke="#1a1a1a" stroke-width="1.2"/>
+<path d="M 450.0 410.4 L 715.2 410.4 L 715.2 393.4 L 450.0 393.4 Z" fill="#f6d2b4" stroke="#1a1a1a" stroke-width="1.4"/>
+<path d="M 524.8 447.9 L 681.2 447.9 L 681.2 418.5 L 524.8 418.5 Z" fill="#3e4144" fill-opacity="0.75" stroke="#1a1a1a" stroke-width="1.4"/>
+<text x="582.6" y="504.0" font-family="Segoe UI, Arial" font-size="16" fill="#1a1a1a" text-anchor="middle" font-weight="bold">Щелчок</text>
+<text x="582.6" y="526.0" font-family="Segoe UI, Arial" font-size="13" fill="#c8500a" text-anchor="middle">усилие на перещёлк ~1 кг</text>
+<path d="M 830.0 470.0 L 1095.2 470.0 L 1095.2 449.6 L 830.0 449.6 Z" fill="#f6d2b4" stroke="#1a1a1a" stroke-width="1.4"/>
+<path d="M 1020.4 449.6 L 1040.8 449.6 L 1035.7 440.1 L 1025.5 440.1 Z" fill="#e87232" stroke="#1a1a1a" stroke-width="1.2"/>
+<path d="M 830.0 410.4 L 1095.2 410.4 L 1095.2 393.4 L 830.0 393.4 Z" fill="#f6d2b4" stroke="#1a1a1a" stroke-width="1.4"/>
+<path d="M 945.6 447.9 L 1102.0 447.9 L 1102.0 418.5 L 945.6 418.5 Z" fill="#3e4144" fill-opacity="0.75" stroke="#1a1a1a" stroke-width="1.4"/>
+<text x="962.6" y="504.0" font-family="Segoe UI, Arial" font-size="16" fill="#1a1a1a" text-anchor="middle" font-weight="bold">Выдвинут</text>
+<text x="962.6" y="526.0" font-family="Segoe UI, Arial" font-size="13" fill="#c8500a" text-anchor="middle">бугорок ловит, не даёт выпасть</text>
+<line x1="410.0" y1="430.0" x2="438.0" y2="430.0" stroke="#c8500a" stroke-width="1.6"/>
+<path d="M 438.0 430.0 l 9 -3 l 0 6 z" fill="#c8500a" transform="rotate(180.0 438.0 430.0)"/>
+<line x1="790.0" y1="430.0" x2="818.0" y2="430.0" stroke="#c8500a" stroke-width="1.6"/>
+<path d="M 818.0 430.0 l 9 -3 l 0 6 z" fill="#c8500a" transform="rotate(180.0 818.0 430.0)"/>
+<text x="70.0" y="786.0" font-family="Segoe UI, Arial" font-size="16" fill="#1a1a1a" text-anchor="start" font-weight="bold">Профиль</text>
+<text x="70.0" y="808.0" font-family="Segoe UI, Arial" font-size="16" fill="#1a1a1a" text-anchor="start" font-weight="bold">бугорка</text>
+<path d="M 250.0 780.0 L 484.0 780.0 L 484.0 738.4 L 250.0 738.4 Z" fill="#f6d2b4" stroke="#1a1a1a" stroke-width="1.4"/>
+<path d="M 289.0 738.4 L 445.0 738.4 L 406.0 720.2 L 328.0 720.2 Z" fill="#e87232" stroke="#1a1a1a" stroke-width="1.4"/>
+<line x1="289.0" y1="694.2" x2="328.0" y2="694.2" stroke="#c8500a" stroke-width="0.9"/>
+<path d="M 289.0 694.2 l 9 -3 l 0 6 z" fill="#c8500a" transform="rotate(0.0 289.0 694.2)"/>
+<path d="M 328.0 694.2 l 9 -3 l 0 6 z" fill="#c8500a" transform="rotate(180.0 328.0 694.2)"/>
+<text x="308.5" y="688.2" font-family="Segoe UI, Arial" font-size="15" fill="#c8500a" text-anchor="middle">въезд 1,5</text>
+<line x1="406.0" y1="694.2" x2="445.0" y2="694.2" stroke="#c8500a" stroke-width="0.9"/>
+<path d="M 406.0 694.2 l 9 -3 l 0 6 z" fill="#c8500a" transform="rotate(0.0 406.0 694.2)"/>
+<path d="M 445.0 694.2 l 9 -3 l 0 6 z" fill="#c8500a" transform="rotate(180.0 445.0 694.2)"/>
+<text x="425.5" y="688.2" font-family="Segoe UI, Arial" font-size="15" fill="#c8500a" text-anchor="middle">сход 1,5</text>
+<line x1="473.6" y1="738.4" x2="473.6" y2="720.2" stroke="#c8500a" stroke-width="0.9"/>
+<path d="M 473.6 738.4 l 9 -3 l 0 6 z" fill="#c8500a" transform="rotate(90.0 473.6 738.4)"/>
+<path d="M 473.6 720.2 l 9 -3 l 0 6 z" fill="#c8500a" transform="rotate(270.0 473.6 720.2)"/>
+<text x="494.4" y="729.3" font-family="Segoe UI, Arial" font-size="14" fill="#c8500a" text-anchor="start">h 0,7</text>
+<text x="367.0" y="806.0" font-family="Segoe UI, Arial" font-size="13" fill="#c8500a" text-anchor="middle">печатается заодно с полозом, без поддержек</text>
+<text x="780.0" y="612.0" font-family="Segoe UI, Arial" font-size="14" fill="#1a1a1a" text-anchor="start">— Дно лотка шире корпуса на 6 мм с каждой стороны</text>
+<text x="780.0" y="638.0" font-family="Segoe UI, Arial" font-size="14" fill="#1a1a1a" text-anchor="start">— Этот фланец и есть салазка: он лежит в пазу полозьев</text>
+<text x="780.0" y="664.0" font-family="Segoe UI, Arial" font-size="14" fill="#1a1a1a" text-anchor="start">— Паз 3,2 мм · дно 2,4 мм · зазор 0,4 на сторону</text>
+<text x="780.0" y="690.0" font-family="Segoe UI, Arial" font-size="14" fill="#1a1a1a" text-anchor="start">— Наклон яруса 12° прижимает лоток внутрь</text>
+<text x="780.0" y="716.0" font-family="Segoe UI, Arial" font-size="14" fill="#1a1a1a" text-anchor="start">— Бугорок 0,7 мм на переднем конце нижнего полоза</text>
+<text x="780.0" y="742.0" font-family="Segoe UI, Arial" font-size="14" fill="#1a1a1a" text-anchor="start">— Ход назад ограничен штангой каркаса</text>
+<text x="780.0" y="768.0" font-family="Segoe UI, Arial" font-size="14" fill="#1a1a1a" text-anchor="start">— Чтобы снять лоток: приподнять перед и протянуть</text><rect x="762" y="818" width="470" height="54" fill="white" stroke="#1a1a1a" stroke-width="1.5"/><text x="774" y="840" font-size="17" font-weight="bold" fill="#c8500a" font-family="Segoe UI, Arial">GIVANTA MASTERS</text><text x="774" y="860" font-size="13" fill="#1a1a1a" font-family="Segoe UI, Arial">BINSTACK P — детент полозьев · размеры в мм</text></svg>
