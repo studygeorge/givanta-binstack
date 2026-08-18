@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1180 560" font-family="Arial"><rect width="1180" height="560" fill="white"/><rect x="8" y="8" width="1164" height="544" fill="none" stroke="#1a1a1a" stroke-width="2"/><text x="60.0" y="48.0" font-family="Segoe UI, Arial" font-size="20" fill="#1a1a1a" text-anchor="start" font-weight="bold">Сечение раскоса фермы: что сплошное, что полое</text>
+<text x="60.0" y="76.0" font-family="Segoe UI, Arial" font-size="14" fill="#c8500a" text-anchor="start">Боковина печатается плашмя: 5 мм это высота по Z, 4 мм ширина раскоса на столе</text>
+<rect x="150.0" y="150.0" width="288.0" height="360.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.3"/>
+<rect x="150.0" y="150.0" width="288.0" height="54.0" fill="#e87232" stroke="#1a1a1a" stroke-width="1.3"/>
+<rect x="150.0" y="456.0" width="288.0" height="54.0" fill="#e87232" stroke="#1a1a1a" stroke-width="1.3"/>
+<rect x="150.0" y="204.0" width="60.5" height="252.0" fill="#e87232" stroke="#1a1a1a" stroke-width="1.3"/>
+<rect x="377.5" y="204.0" width="60.5" height="252.0" fill="#e87232" stroke="#1a1a1a" stroke-width="1.3"/>
+<rect x="210.5" y="204.0" width="167.0" height="252.0" fill="#f6d2b4" stroke="#1a1a1a" stroke-width="1.3" stroke-dasharray="5 4"/>
+<text x="294.0" y="336.0" font-family="Segoe UI, Arial" font-size="14" fill="#1a1a1a" text-anchor="middle">полость</text>
+<text x="294.0" y="356.0" font-family="Segoe UI, Arial" font-size="12" fill="#c8500a" text-anchor="middle">заполнение 10 %</text>
+<line x1="150.0" y1="134.0" x2="210.5" y2="134.0" stroke="#c8500a" stroke-width="0.9"/>
+<path d="M 150.0 134.0 l 9 -3 l 0 6 z" fill="#c8500a" transform="rotate(0.0 150.0 134.0)"/>
+<path d="M 210.5 134.0 l 9 -3 l 0 6 z" fill="#c8500a" transform="rotate(180.0 210.5 134.0)"/>
+<text x="180.2" y="128.0" font-family="Segoe UI, Arial" font-size="14" fill="#c8500a" text-anchor="middle">0,84</text>
+<line x1="210.5" y1="134.0" x2="377.5" y2="134.0" stroke="#c8500a" stroke-width="0.9"/>
+<path d="M 210.5 134.0 l 9 -3 l 0 6 z" fill="#c8500a" transform="rotate(0.0 210.5 134.0)"/>
+<path d="M 377.5 134.0 l 9 -3 l 0 6 z" fill="#c8500a" transform="rotate(180.0 377.5 134.0)"/>
+<text x="294.0" y="128.0" font-family="Segoe UI, Arial" font-size="14" fill="#c8500a" text-anchor="middle">2,32</text>
+<line x1="377.5" y1="134.0" x2="438.0" y2="134.0" stroke="#c8500a" stroke-width="0.9"/>
+<path d="M 377.5 134.0 l 9 -3 l 0 6 z" fill="#c8500a" transform="rotate(0.0 377.5 134.0)"/>
+<path d="M 438.0 134.0 l 9 -3 l 0 6 z" fill="#c8500a" transform="rotate(180.0 438.0 134.0)"/>
+<text x="407.8" y="128.0" font-family="Segoe UI, Arial" font-size="14" fill="#c8500a" text-anchor="middle">0,84</text>
+<line x1="150.0" y1="98.0" x2="438.0" y2="98.0" stroke="#c8500a" stroke-width="0.9"/>
+<path d="M 150.0 98.0 l 9 -3 l 0 6 z" fill="#c8500a" transform="rotate(0.0 150.0 98.0)"/>
+<path d="M 438.0 98.0 l 9 -3 l 0 6 z" fill="#c8500a" transform="rotate(180.0 438.0 98.0)"/>
+<text x="294.0" y="92.0" font-family="Segoe UI, Arial" font-size="14" fill="#c8500a" text-anchor="middle">ширина раскоса 4,0</text>
+<line x1="132.0" y1="150.0" x2="132.0" y2="204.0" stroke="#c8500a" stroke-width="0.9"/>
+<path d="M 132.0 150.0 l 9 -3 l 0 6 z" fill="#c8500a" transform="rotate(90.0 132.0 150.0)"/>
+<path d="M 132.0 204.0 l 9 -3 l 0 6 z" fill="#c8500a" transform="rotate(270.0 132.0 204.0)"/>
+<text x="124.0" y="177.0" font-family="Segoe UI, Arial" font-size="14" fill="#c8500a" text-anchor="middle" transform="rotate(-90.0 124.0 177.0)">0,75</text>
+<line x1="132.0" y1="204.0" x2="132.0" y2="456.0" stroke="#c8500a" stroke-width="0.9"/>
+<path d="M 132.0 204.0 l 9 -3 l 0 6 z" fill="#c8500a" transform="rotate(90.0 132.0 204.0)"/>
+<path d="M 132.0 456.0 l 9 -3 l 0 6 z" fill="#c8500a" transform="rotate(270.0 132.0 456.0)"/>
+<text x="124.0" y="330.0" font-family="Segoe UI, Arial" font-size="14" fill="#c8500a" text-anchor="middle" transform="rotate(-90.0 124.0 330.0)">3,50</text>
+<line x1="132.0" y1="456.0" x2="132.0" y2="510.0" stroke="#c8500a" stroke-width="0.9"/>
+<path d="M 132.0 456.0 l 9 -3 l 0 6 z" fill="#c8500a" transform="rotate(90.0 132.0 456.0)"/>
+<path d="M 132.0 510.0 l 9 -3 l 0 6 z" fill="#c8500a" transform="rotate(270.0 132.0 510.0)"/>
+<text x="124.0" y="483.0" font-family="Segoe UI, Arial" font-size="14" fill="#c8500a" text-anchor="middle" transform="rotate(-90.0 124.0 483.0)">0,75</text>
+<line x1="92.0" y1="150.0" x2="92.0" y2="510.0" stroke="#c8500a" stroke-width="0.9"/>
+<path d="M 92.0 150.0 l 9 -3 l 0 6 z" fill="#c8500a" transform="rotate(90.0 92.0 150.0)"/>
+<path d="M 92.0 510.0 l 9 -3 l 0 6 z" fill="#c8500a" transform="rotate(270.0 92.0 510.0)"/>
+<text x="84.0" y="330.0" font-family="Segoe UI, Arial" font-size="14" fill="#c8500a" text-anchor="middle" transform="rotate(-90.0 84.0 330.0)">толщина стенки 5,0</text>
+<text x="528.0" y="156.0" font-family="Segoe UI, Arial" font-size="16" fill="#1a1a1a" text-anchor="start" font-weight="bold">Сплошной пластик</text>
+<text x="528.0" y="184.0" font-family="Segoe UI, Arial" font-size="14" fill="#1a1a1a" text-anchor="start">— 3 верхних слоя  0,75 мм</text>
+<text x="528.0" y="208.0" font-family="Segoe UI, Arial" font-size="14" fill="#1a1a1a" text-anchor="start">— 3 нижних слоя  0,75 мм</text>
+<text x="528.0" y="232.0" font-family="Segoe UI, Arial" font-size="14" fill="#1a1a1a" text-anchor="start">— 2 периметра по бокам  0,84 + 0,84 мм</text>
+<text x="528.0" y="256.0" font-family="Segoe UI, Arial" font-size="14" fill="#1a1a1a" text-anchor="start">— итого 11,9 мм2 из 20 мм2 сечения = 59 %</text>
+<text x="528.0" y="300.0" font-family="Segoe UI, Arial" font-size="16" fill="#1a1a1a" text-anchor="start" font-weight="bold">Полость с заполнением</text>
+<text x="528.0" y="328.0" font-family="Segoe UI, Arial" font-size="14" fill="#1a1a1a" text-anchor="start">— 2,32 мм в ширину и 3,50 мм в высоту</text>
+<text x="528.0" y="352.0" font-family="Segoe UI, Arial" font-size="14" fill="#1a1a1a" text-anchor="start">— 8,1 мм2 = 41 % сечения</text>
+<text x="528.0" y="376.0" font-family="Segoe UI, Arial" font-size="14" fill="#1a1a1a" text-anchor="start">— при Gyroid 10 % туда идёт 0,8 мм2</text>
+<text x="528.0" y="400.0" font-family="Segoe UI, Arial" font-size="14" fill="#1a1a1a" text-anchor="start">— пластика всего 12,7 мм2 = 63 % сечения</text>
+<text x="528.0" y="450.0" font-family="Segoe UI, Arial" font-size="14" fill="#c8500a" text-anchor="start">Если нужно ещё легче: слои 2/2 вместо 3/3 дают 58 %.</text>
+<text x="528.0" y="474.0" font-family="Segoe UI, Arial" font-size="14" fill="#c8500a" text-anchor="start">3 периметра ставить нельзя: полость схлопнется до 1,5 мм, пластика 77 %.</text><rect x="702" y="498" width="470" height="54" fill="white" stroke="#1a1a1a" stroke-width="1.5"/><text x="714" y="520" font-size="17" font-weight="bold" fill="#c8500a" font-family="Segoe UI, Arial">GIVANTA MASTERS</text><text x="714" y="540" font-size="13" fill="#1a1a1a" font-family="Segoe UI, Arial">BINSTACK P — сечение раскоса, сопло 0,4 · слой 0,25</text></svg>
